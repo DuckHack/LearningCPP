@@ -1,0 +1,3 @@
+/Users/andrei.k/Learning/CPPPrjs/FloatingPointNumbers/cmake-build-debug/CMakeFiles/FloatingPointNumbers.dir
+/Users/andrei.k/Learning/CPPPrjs/FloatingPointNumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrei.k/Learning/CPPPrjs/FloatingPointNumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

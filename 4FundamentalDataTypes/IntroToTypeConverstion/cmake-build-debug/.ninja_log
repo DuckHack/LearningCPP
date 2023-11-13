@@ -1,0 +1,10 @@
+# ninja log v5
+0	1763	1699892943278415314	CMakeFiles/IntroToTypeConverstion.dir/main.cpp.o	3ec35f70a2fd9c6f
+0	1783	1699892943301996459	CMakeFiles/IntroToTypeConverstion.dir/Question1.cpp.o	8f33703dd851c065
+1783	1934	1699892943467439976	IntroToTypeConverstion	a1e4eb2ba17cf7fd
+10	1628	1699892993229871848	CMakeFiles/IntroToTypeConverstion.dir/Question1.cpp.o	8f33703dd851c065
+1629	1749	1699892993366287187	IntroToTypeConverstion	a1e4eb2ba17cf7fd
+10	1639	1699893034185466182	CMakeFiles/IntroToTypeConverstion.dir/Question1.cpp.o	8f33703dd851c065
+1639	1768	1699893034327740036	IntroToTypeConverstion	a1e4eb2ba17cf7fd
+12	1835	1699893068080566928	CMakeFiles/IntroToTypeConverstion.dir/Question1.cpp.o	8f33703dd851c065
+1835	1952	1699893068204885567	IntroToTypeConverstion	a1e4eb2ba17cf7fd
