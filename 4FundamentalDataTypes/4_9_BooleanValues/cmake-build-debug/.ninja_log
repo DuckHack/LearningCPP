@@ -1,9 +1,0 @@
-# ninja log v5
-12	1703	1699880309707226931	CMakeFiles/BooleanValues.dir/main.cpp.o	e9bca0c618e2ef9c
-12	1705	1699880309709634502	CMakeFiles/BooleanValues.dir/Printing.cpp.o	deea01970772dc41
-1705	1864	1699880309879948300	BooleanValues	e340826eebc36090
-18	135	1699881318783632414	CMakeFiles/BooleanValues.dir/PrimeChecker.cpp.o	98af754ad9269c24
-18	1549	1699881320194409589	CMakeFiles/BooleanValues.dir/IntegerToBooleanConversion.cpp.o	92a40fb09574142
-17	1554	1699881320198966418	CMakeFiles/BooleanValues.dir/Printing.cpp.o	deea01970772dc41
-16	1562	1699881320208292887	CMakeFiles/BooleanValues.dir/main.cpp.o	e9bca0c618e2ef9c
-1562	1663	1699881320314020211	BooleanValues	89f4760f801ea888
